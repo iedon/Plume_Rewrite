@@ -1,0 +1,4 @@
+EXPORTS
+	Plume_GetPluginDesc
+	Plume_InitPlugin
+	Plume_PluginProc
